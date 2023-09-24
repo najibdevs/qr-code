@@ -6,6 +6,8 @@ A simple QR Code generator built using HTML and CSS.
 
 This tool allows users to generate QR codes. Designed for desktop browsers, it's not mobile-optimized.
 
+You can [view the project here](https://qr-code-orpin-rho.vercel.app/).
+
 ## Features
 
 - User-friendly interface.
